@@ -1,0 +1,6 @@
+video {
+    width: 100%;
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-bottom: 30px; /* Isso cria um espaço embaixo de cada vídeo */
+}
